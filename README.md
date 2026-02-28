@@ -52,8 +52,8 @@ I believe in **learning by building**, not just watching tutorials.
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- 📧 Email: yourmail@example.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/siddharth-todkar/)
+- 📧 Email: siddharthdt9699@gmail.com
 - 🐙 GitHub: https://github.com/Sid2OP
 
 ---
